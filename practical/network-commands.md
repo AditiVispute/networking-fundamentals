@@ -93,3 +93,6 @@ If the packets are received successfully, it means the network connection is wor
     aditi-PC
 
   Used to identify the system name on the network.
+
+
+Added networking practical commands with usage and sample outputs
