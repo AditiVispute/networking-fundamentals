@@ -30,7 +30,7 @@ If the packets are received successfully, it means the network connection is wor
 
    This shows the private IP address assigned to the system.
 
-##ifconfig
+## ifconfig
   Use:
     Used to display information about all the network interfaces present on the system.
 
@@ -43,7 +43,7 @@ If the packets are received successfully, it means the network connection is wor
 
   Helps in identifying whether a network interface is active or not.
 
-##traceroute
+## traceroute
   Use:
    Tracks the path taken by the data packets from the system to the destination server.
 
@@ -57,7 +57,7 @@ If the packets are received successfully, it means the network connection is wor
 
   Shows the number of hops between source and destination.
 
-##netstat
+## netstat
   Use:
    Displays active network connections and listening ports on the system.
 
@@ -69,7 +69,7 @@ If the packets are received successfully, it means the network connection is wor
 
   Used to check which services are currently running on specific ports.  
 
-##nslookup
+## nslookup
   Use:
     Used to find the IP address of a domain using DNS lookup.
 
@@ -82,7 +82,7 @@ If the packets are received successfully, it means the network connection is wor
 
   Helps in resolving domain names to IP addresses.
 
-##hostname
+## hostname
   Use:
    Displays the name of the system connected to the network.
 
